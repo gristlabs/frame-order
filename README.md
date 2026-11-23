@@ -36,6 +36,7 @@ Use whatever tools you like, AI assistants included.
 3. Add [@grist-hiring](https://github.com/grist-hiring) as a collaborator (Settings >
    Collaborators).
 4. Fill in [this form](https://hiring.getgrist.com/forms/46sui68xMKyENn1AT4H6SY/7) with your
-   repo URL and your resume.
+   repo URL and your resume. If you prefer, put your resume in the repo instead, as
+   `RESUME.md` or `RESUME.pdf` at the top level.
 
 Submissions must be in a private repo to be reviewed.
